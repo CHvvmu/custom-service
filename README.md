@@ -1,5 +1,5 @@
 # customer-service
-"Cетевой многопоточный сервис для StatusPage".
+"Cетевой многопоточный сервис для StatusPage"
 
 Сервис собирает, анализирует и представляет данные о работе систем коммуникации: SMS, MMS, VoiceCall, Email, Billing, Support, Incidents.
 
