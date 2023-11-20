@@ -24,6 +24,5 @@ $ go run . -mms "http://127.0.0.1:8383/mms" -support "http://127.0.0.1:8383/supp
   
 Также можно посмотреть в окне браузера.
    Для этого в проводнике из папки "simulator" запустить файл "status_page.html"
-![image](https://github.com/CHvvmu/service-cust/assets/96997574/e1652c6b-76e4-4f62-9ebf-99f5729d9574)
 
 ![Результат работы сервиса](https://github.com/CHvvmu/service-cust/assets/96997574/70681c5d-e6bb-4f27-8639-ed114cd92d71)
