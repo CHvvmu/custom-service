@@ -8,9 +8,6 @@
 Порядок работы:
 1. из каталога "simulator" запустить симулятор  $... \simulator> go run .
 
-или:
-$ go run . -mms "http://127.0.0.1:8383/mms" -support "http://127.0.0.1:8383/support" -accendent "http://127.0.0.1:8383/accendent"
-
 По умолчанию исходные данные приходят:
   "MMS" -> http://127.0.0.1:8383/mms
   "Support" -> http://127.0.0.1:8383/support
